@@ -12,6 +12,8 @@ Version 1 model (CNN Model) - https://drive.google.com/drive/folders/13Qmp3hy7MF
 CNN model - https://drive.google.com/drive/folders/1rUkL1QdKiIWa6NkVltYAExe2iWpmpS0n?usp=drive_link <br>
 VGG16 model - https://drive.google.com/drive/folders/1Io1uG6-KoD7_gWAdqR7PjohZoMqiLI-5?usp=drive_link <br>
 ResNet model - https://drive.google.com/drive/folders/11DgBhBTM3HlYYqv7rQL3V-cj6rTWoC3H?usp=drive_link <br>
+<br>
+Drive Link - https://drive.google.com/drive/folders/1ccQ4dQ-DwY9hvtmoC0Qdtr-By7S2I57H?usp=drive_link
 ## Note
 The Version 1 model performs very well in classifying real time images from the webcam but the one that are trained on the new code is not performing that good. I am not sure why.<br>
 For more details refer the documentation.
